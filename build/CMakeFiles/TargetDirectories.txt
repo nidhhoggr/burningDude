@@ -1,0 +1,7 @@
+/Users/persie_joseph/dev/www/games/burningDude/build/CMakeFiles/install/local.dir
+/Users/persie_joseph/dev/www/games/burningDude/build/CMakeFiles/install/strip.dir
+/Users/persie_joseph/dev/www/games/burningDude/build/CMakeFiles/install.dir
+/Users/persie_joseph/dev/www/games/burningDude/build/CMakeFiles/list_install_components.dir
+/Users/persie_joseph/dev/www/games/burningDude/build/CMakeFiles/burningDude.dir
+/Users/persie_joseph/dev/www/games/burningDude/build/CMakeFiles/rebuild_cache.dir
+/Users/persie_joseph/dev/www/games/burningDude/build/CMakeFiles/edit_cache.dir

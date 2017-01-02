@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc   -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/burningDude.dir/src/main.c.o CMakeFiles/burningDude.dir/src/status.c.o  -o burningDude -Wl,-rpath,/Library/Frameworks  -framework SDL2 -framework Cocoa -framework SDL2_image /usr/local/lib/libSDL2_mixer.dylib /usr/local/lib/libSDL2_ttf.dylib 
