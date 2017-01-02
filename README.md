@@ -9,7 +9,7 @@
 
 ##BurningDude
 
- Taken from C gaming tutroial from youtube channel VertoStudio3D.
+ Taken from C gaming tutorial from youtube channel VertoStudio3D.
  Project has been restructured for easier builds.
 
 ###Step 1
